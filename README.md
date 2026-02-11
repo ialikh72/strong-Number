@@ -25,5 +25,20 @@ Calculates sum of factorial of each digit for every number.
 
 Prints all strong numbers found in the range.
 
-**Code Structure
+**Code Structure:
+Main()
+
+Reads number from user.
+
+Loops through numbers from 1 to input.
+
+Calls Factorial() for each digit.
+
+Prints number if it is strong.
+
+Factorial(int n)
+
+Returns factorial of a single digit.
+
+Uses a simple for loop to calculate factorial.
 
